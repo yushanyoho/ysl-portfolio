@@ -1,3 +1,8 @@
+# Intro
+Hi, my name is Yushan. I'm developing my first web portfolio.
+
+I design 3D visuals, web applications, and gardens : )
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
