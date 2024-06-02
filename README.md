@@ -1,7 +1,7 @@
 # Intro
 Hi, my name is Yushan. I'm developing my first web portfolio.
 
-I design 3D visuals, web applications, and gardens : )
+I design 3D Visuals, Web Applications, and your backyard gardens : )
 
 # React + Vite
 

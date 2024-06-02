@@ -40,23 +40,29 @@ export const navLinks = [
   },
 ];
 
+const intro = `
+  I'm a skilled software developer with experience in TypeScript and JavaScript, and espertise in frameworks like React, Node.js, and Three.js. 
+  I also create landscape design that cheers your up.
+  I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+`;
+
 const services = [
   {
     title: "Web Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
     title: "Backend Developer",
     icon: backend,
   },
   {
+    title: "Landscape Designer",
+    icon: mobile,
+  },
+  {
     title: "Content Creator",
     icon: creator,
-  },
+  }
 ];
 
 const technologies = [
@@ -262,4 +268,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { intro, services, technologies, experiences, testimonials, projects };
